@@ -1,5 +1,6 @@
-# Game AI Engine
+# Game AI Prison Dodgeball
 Working with Finite State Machines to implement a Prison DodgeBall Team.
 
-![dodgeball](https://github.com/yochitha/prison-dodgeball/assets/17880820/6ca13021-970d-44a1-a162-cdad12183830)
+![dodgeBall](https://github.com/yochitha/prison-dodgeball/assets/17880820/c7bade7e-b966-4b82-b483-3190b0f05c80)
+
 
